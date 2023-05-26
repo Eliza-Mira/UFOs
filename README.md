@@ -17,11 +17,11 @@ To apply filters to the data, the user inputs their desired search criteria into
 
 Image 1: The initial filter was applied to the State field by using "ca" as the search criteria, representing California.
 
-<img src="ENTER LINK TO IMAGE HERE.png" width="200">
+<img src="https://github.com/Eliza-Mira/UFOs/blob/main/M12_Challenge/static/images/image1_filterby_state.png" width="800">
 
 Image 2: The search was further refined by entering "light" as the search criteria in the shape field.
 
-<img src="ENTER LINK TO IMAGE HERE.png" width="200">
+<img src="https://github.com/Eliza-Mira/UFOs/blob/main/M12_Challenge/static/images/image2_filterby_state_and_shape.png" width="800">
 
 
 ## Summary:
